@@ -27,15 +27,7 @@ Soy un **Desarrollador de Software** enfocado en el ecosistema **Python**, con u
 
 *Otras competencias:* Programación Orientada a Objetos (POO), Arquitectura Modular, Data Cleaning, Estructuras de Datos.
 
-<!-----
-
-### 📜 Certificaciones y Formación
-
-* 🎓 **Curso / Carrera / Certificado 1** - *Institución o Plataforma (ej. Platzi, Udemy, Coursera)* | [Ver Credencial](...)
-* 🎓 **Curso / Carrera / Certificado 2** - *Institución o Plataforma* | [Ver Credencial](...)
-* 📖 *Actualmente estudiando e incorporando de forma autodidacta:* Patrones de Diseño, Testing Automatizado (PyTest) y metodologías ágiles.
-
------>
+---
 
 ### 🎯 Objetivos Técnicos (A Mediano Plazo)
 
