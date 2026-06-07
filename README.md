@@ -41,12 +41,3 @@ Herramienta local para la administración segura y organizada de credenciales de
 #### 📊 [Control de Gastos](https://github.com)
 Solución de software dedicada al seguimiento y categorización de finanzas personales.
 * **Foco técnico:** Automatización de cálculos financieros básicos e interfaces interactivas por línea de comandos para el análisis de reportes.
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub de Tomás" height="192" />
-  <img src="https://vercel.app" alt="Lenguajes más usados por Tomás" height="192" />
-</p>
