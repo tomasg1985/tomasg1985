@@ -4,7 +4,7 @@ Soy un **Desarrollador de Software** enfocado en el ecosistema **Python**, con u
 
 - 🚀 Actualmente enfocado en: Arquitectura de software y optimización de flujos de datos.
 - ⚙️ Mi filosofía de código: Código limpio, programación defensiva y validación robusta de datos.
-- 📫 Cómo contactarme: [LinkedIn](https://linkedin.com) | tomasgabrielh@gmail.com
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tomashernandezlugo/) | tomasgabrielh@gmail.com
 
 ---
 
